@@ -15,12 +15,18 @@
   <img src="https://img.shields.io/badge/Location-USA-0A66C2?style=flat-square"/>
   <img src="https://img.shields.io/badge/Status-Open_to_Roles-2ea44f?style=flat-square"/>
 
+<br/>
+<br/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Performance-obsessed+Backend+Engineer;Specializing+in+high-throughput+Java+systems;Building+AI-assisted+platforms+Wait+for+it...;Architecting+for+99.9%25+Uptime&font=Fira%20Code&center=true&width=500&height=30&color=F7F7F7&vCenter=true&size=16" alt="Typing SVG" />
+</a>
+
 </div> 
 
 ---
 
 ### ⚡ Engineering Snapshot
-> *Performance-obsessed Backend Engineer specializing in high-throughput Java systems and AI integration.*
 
 | **Metric** | **Impact** |
 | :--- | :--- |
