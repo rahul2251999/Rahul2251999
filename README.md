@@ -1,119 +1,100 @@
-<!--
-  Hi! This profile README is designed to be clean, fast, and ATS-friendly.
-  Keep sections tight; update the "Now" board monthly.
--->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A0A0A&height=200&section=header&text=Rahul%20Podugu&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Architecting%20Scale%20%7C%20Distributed%20Systems%20%7C%20Generative%20AI&descAlignY=55&descAlign=50" alt="Rahul Podugu Banner" width="100%"/>
+</div>
 
-<h1 align="center">Rahul Podugu</h1>
-<p align="center">
-  <b>Software Engineer — backend, distributed systems, and AI-assisted platforms</b><br/>
-  Java • Spring Boot • Kafka • AWS • Redis • Kubernetes • LangChain • Vector Search
-</p>
+<div align="center">
+  
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rahulpodugu/)
+  [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:rahulpodugu2@gmail.com)
+  [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Rahul2251999)
 
-<p align="center">
-  <a href="https://github.com/Rahul2251999"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-@Rahul2251999-181717?logo=github"></a>
-  <a href="mailto:rahulpodugu2@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-rahulpodugu2%40gmail.com-0078D4?logo=microsoftoutlook&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/rahulpodugu/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-rahulpodugu-blue?logo=linkedin"></a>
-</p>
+  <br />
 
-<p align="center">
-  <img alt="Focus" src="https://img.shields.io/badge/Focus-Event--driven%20payments%20%7C%20RAG%20for%20ops%20portals-0A0A0A">
-  <img alt="Location" src="https://img.shields.io/badge/Location-USA-0A66C2">
-  <img alt="Open To" src="https://img.shields.io/badge/Open%20to-Backend%20%7C%20Platform%20%7C%20Infra%20roles-067A46">
-</p>
+  <img src="https://img.shields.io/badge/Focus-Event_Driven_Architecture-0A0A0A?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Focus-RAG_&_Vector_Search-0A0A0A?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Location-USA-0A66C2?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Status-Open_to_Roles-2ea44f?style=flat-square"/>
+
+</div> 
 
 ---
 
-### Snapshot
-- Built and shipped Spring Boot microservices on AWS handling **100K+ daily transactions** with **99.9% uptime**  
-- Introduced **Kafka + Saga** patterns; cut service latency by **~40%**  
-- Implemented a **RAG** customer-support layer with LangChain; automated **~30%** of payment queries  
-- Vector search with **FAISS** improved answer accuracy by **~25%**  
-- p99<sup>th</sup> **≤150 ms** for 50K+ users after systematic perf work (Redis, SQL tuning, autoscaling)
+### ⚡ Engineering Snapshot
+> *Performance-obsessed Backend Engineer specializing in high-throughput Java systems and AI integration.*
+
+| **Metric** | **Impact** |
+| :--- | :--- |
+| **Scale** | Handled **100K+ daily transactions** with **99.9% uptime** via Spring Boot & AWS. |
+| **Latency** | Cut service latency by **~40%** introducing **Kafka + Saga** choreography. |
+| **AI Ops** | Automated **30%** of payment queries using **LangChain RAG** pipelines. |
+| **Performance** | Achieved **p99 ≤150ms** for 50K+ users via Redis caching & SQL tuning. |
 
 ---
 
-### What I’m building right now
-- Turning payment workflows into **event-driven** streams with sane saga orchestration and idempotent consumers  
-- Hardening an **AI incident copilot**: source-grounded steps, rollback plans, and selective fallbacks to keyword search  
-- Pragmatic reliability work: **dashboards, budgets, SLOs,** and boring, repeatable release pipelines
+### 🛠️ The Arsenal
+
+<table align="center">
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+      <br>Java
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring" />
+      <br>Spring
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=kafka" width="48" height="48" alt="Kafka" />
+      <br>Kafka
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
+      <br>Redis
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="Postgres" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
+      <br>AWS
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes" />
+      <br>K8s
+    </td>
+     <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+      <br>Python/AI
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <b>Libraries & Tools:</b> <br/>
+  <code>LangChain</code> <code>FAISS</code> <code>Docker</code> <code>Grafana</code> <code>Jenkins</code> <code>Hibernate</code>
+</div>
 
 ---
 
-### Selected Work
+### 🧠 System Architecture & Philosophy
 
-#### 🔐 SecureShare — Decentralized P2P File Sharing  
-Hybrid **RSA + AES**, DHT indexing, and a multithreaded pipeline for 3× faster access vs. naive P2P.  
-`Java` `Networking` `Crypto`  
-➡️ Repo: https://github.com/Rahul2251999/Peer-to-Peer-Secured-File-System
+I don't just write code; I design resilient systems. Here is a high-level view of the **RAG & Event-Driven patterns** I implement:
 
-#### ⚡ Real-time Stock Trading Engine  
-Lock-free, CAS-driven matching with price-time priority and sub-ms tick processing across 1K+ symbols.  
-`Java` `Concurrency` `Low-latency`  
-➡️ Repo: https://github.com/Rahul2251999/stock-trading-engine
+```mermaid
+%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#ffcc00', 'edgeLabelBackground':'#ffffff', 'tertiaryColor': '#fff'}}}%%
+graph LR
+    subgraph "Event Driven Core"
+    A[User Action] -->|API| B(Producer Svc)
+    B -->|Async Event| C{Kafka Topic}
+    C -->|Consumer Group| D[Inventory Svc]
+    C -->|Consumer Group| E[Audit Svc]
+    end
 
-#### 🤖 AI-Powered Support Chatbot  
-Azure Bot Services + custom NLP + RAG for payments documentation; ~60% better first-touch resolution.  
-`LangChain` `Vector Search` `Azure`  
-➡️ Repo: https://github.com/Rahul2251999/AI-Powered-Customer-Support-Chatbot
-
-<details>
-  <summary><b>Architecture notes (click to expand)</b></summary>
-
-- **Eventing:** Kafka topics per domain aggregate; outbox + schema evolution; strict idempotency keys  
-- **Sagas:** Choreography for simple flows, orchestration when cross-domain compensation is non-trivial  
-- **Search:** Hybrid retrieval (BM25 + cosine) with FAISS IVF-HNSW for balanced recall/latency envelopes  
-- **Safety:** Source-grounded steps with links; confidence gating to legacy results on low-score thresholds  
-- **Perf:** Hot-path caching (Redis), deliberate N+1 audits, async boundaries, autoscaling on queue depth
-</details>
-
----
-
-### Tech I reach for
-<p>
-  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white">
-  <img alt="Spring" src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=spring&logoColor=white">
-  <img alt="Kafka" src="https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white">
-  <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white">
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white">
-  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white">
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white">
-  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white">
-  <img alt="LangChain" src="https://img.shields.io/badge/LangChain-111?logo=python&logoColor=white">
-  <img alt="FAISS" src="https://img.shields.io/badge/FAISS-0052CC">
-  <img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white">
-  <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white">
-</p>
-
----
-
-### Operating model
-- **Build for failure first.** Idempotent handlers, retries with backoff, DLQs, and clear compensations  
-- **Bias for clarity.** Small PRs, ADRs for irreversible choices, runbooks with decisive steps  
-- **Measure, then move.** SLOs, budgets, and one-pager experiments before expensive migrations
-
----
-
-### “Now” board
-- [ ] Tighten saga compensations for partial captures  
-- [ ] Add RAG evaluator with source-coverage and step-accuracy scoring  
-- [ ] Move from single-region writers to multi-AZ quorum for a latency-sensitive service segment
-
----
-
-### GitHub at a glance
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Rahul2251999&show_icons=true&hide_border=true" alt="Rahul's GitHub stats"/>
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=Rahul2251999&hide_border=true" alt="Rahul's GitHub streak"/>
-</p>
-<p align="center">
-  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul2251999&layout=compact&hide_border=true" alt="Top languages"/>
-</p>
-
----
-
-### Connect
-- 💼 LinkedIn: <a href="https://www.linkedin.com/in/rahulpodugu/">/in/rahulpodugu</a>  
-- ✉️ Email: <a href="mailto:rahulpodugu2@gmail.com">rahulpodugu2@gmail.com</a>
-
-<!-- Footnotes -->
-<sub>Key metrics and highlights summarized from my recent resume.</sub>
+    subgraph "AI Layer"
+    F[Query] -->|LangChain| G[Vector Search]
+    G -->|Context| H[LLM Response]
+    end
+    
+    style C fill:#f96,stroke:#333,stroke-width:2px
+    style G fill:#61dafb,stroke:#333,stroke-width:2px
