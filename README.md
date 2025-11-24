@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A0A0A&height=200&section=header&text=Rahul%20Podugu&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Architecting%20Scale%20%7C%20Distributed%20Systems%20%7C%20Generative%20AI&descAlignY=55&descAlign=50" alt="Rahul Podugu Banner" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Rahul%20Podugu&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Architecting%20Scale%20%7C%20Distributed%20Systems%20%7C%20Generative%20AI&descAlignY=55&descAlign=50&descSize=20&descColor=ffffff" alt="Rahul Podugu Banner" width="100%"/>
 </div>
 
 <div align="center">
